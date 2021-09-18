@@ -19,7 +19,7 @@ DOWN = 270
     from Turtle class which was an attribute of any Paddle object.  erroneous implementation
     also has 3 parameters.  positional parameter 2 and 3 were for xcoord and ycoord.  however,
     correct implementation accepted a tuple of the x and y coordinates.  calling in the main
-    executed as paddle = Paddle((-350,0)).  note the 2 sets of a paranthesis
+    executed as paddle = Paddle((-350,0)).  note the 2 sets of a parenthesis
     corrections below
     keeping erroneous code in comments for future reference.
     class Paddle()
